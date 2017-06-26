@@ -1,2 +1,2 @@
-# Nuclear-Waste-Disposal-Robot
-This project was to build a robot with lego. This robot's main task is to clean the nuclear waste.
+# Nuclear-Waste-Disposal-Robot: Nasty Scorpion
+This project is to build and program a robot with lego. The robot's main task is to clean the nuclear waste.
