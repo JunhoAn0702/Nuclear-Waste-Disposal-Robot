@@ -16,7 +16,7 @@ Please make sure that the robot is connected to your machine. You can compile an
 Please make sure that the MINDSTORMS NXT 2.0 software is installed on your local machine. The software can be downloaded from here: https://www.lego.com/en-us/mindstorms/downloads/nxt-software-download 
 
 ## Algorithm
-![ScreenShot](https://raw.github.com/JunhoAn0702/Nuclear-Waste-Disposal-Robot/blob/master/Design/Algorithm.png)
+![ScreenShot](https://raw.github.com/JunhoAn0702/Nuclear-Waste-Disposal-Robot/master/Design/Algorithm.png)
 
 ## Running the tests
 
