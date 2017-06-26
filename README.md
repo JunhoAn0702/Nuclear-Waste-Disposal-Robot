@@ -23,4 +23,4 @@ You can run tests by running each code in the "Components" folder. Each code per
 
 ## Conclusion
 
-Won the Drexel Engineering School compotition.
+Won the 1st place in Drexel Engineering School compotition.
